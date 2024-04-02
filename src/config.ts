@@ -28,7 +28,7 @@ export const SOCIALS: SocialObjects = [
     name: "Github",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: ` ${SITE.title} on Github`,
-    active: true,
+    active: false,
   },
   {
     name: "Facebook",
@@ -88,7 +88,7 @@ export const SOCIALS: SocialObjects = [
     name: "Pinterest",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on Pinterest`,
-    active: false,
+    active: true,
   },
   {
     name: "TikTok",
